@@ -1,0 +1,1 @@
+invoke-static {p0, }, LDebugger;->showVariable(Landroid/content/Context;Ljava/lang/Object;)V
